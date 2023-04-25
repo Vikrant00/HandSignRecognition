@@ -2,10 +2,10 @@
 # Hand Sign Recognition
 ![Alt text](HandSignRecognition/../Tensorflow/workspace/images/hu.jpg)
 
-![GitHub language count](https://img.shields.io/github/languages/count/Vikrant00/Campgrounds)
-![top language](https://img.shields.io/github/languages/top/Vikrant00/Campgrounds)
-![GitHub repo size](https://img.shields.io/github/repo-size/Vikrant00/Campgrounds)
-![Watchers](https://img.shields.io/github/watchers/Vikrant00/Campgrounds?style=social)
+![GitHub language count](https://img.shields.io/github/languages/count/Vikrant00/HandSignRecognition)
+![top language](https://img.shields.io/github/languages/top/Vikrant00/HandSignRecognition)
+![GitHub repo size](https://img.shields.io/github/repo-size/Vikrant00/HandSignRecognition)
+![Watchers](https://img.shields.io/github/watchers/Vikrant00/HandSignRecognition?style=social)
 
  Hand Sign Recognition is a sign language detector that detects hand signs in real time and labels the movement.
  
