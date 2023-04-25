@@ -22,7 +22,8 @@
 - the last cell will launch the openCV cam to do real time hand sign detections
 
 ## Output:
-![Alt text](HandSignRecognition/../Tensorflow/workspace/images/1.png)
-![Alt text](HandSignRecognition/../Tensorflow/workspace/images/2.png)
-![Alt text](HandSignRecognition/../Tensorflow/workspace/images/3.png)
-![Alt text](HandSignRecognition/../Tensorflow/workspace/images/4.png)
+<img src="/Tensorflow/workspace/images/1.png" width="300" height="300">
+<img src="/Tensorflow/workspace/images/2.png" width="300" height="300">
+<img src="/Tensorflow/workspace/images/3.png" width="300" height="300">
+<img src="/Tensorflow/workspace/images/4.png" width="300" height="300">
+
