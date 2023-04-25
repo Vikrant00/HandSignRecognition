@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dump</folder>
+	<filename>Hey.b2ec11cc-c42e-11ed-877b-aae9fe875be2.jpg</filename>
+	<path>C:\Users\vikrant\Desktop\project\imgData\dump\Hey.b2ec11cc-c42e-11ed-877b-aae9fe875be2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hey!</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>347</ymin>
+			<xmax>506</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>

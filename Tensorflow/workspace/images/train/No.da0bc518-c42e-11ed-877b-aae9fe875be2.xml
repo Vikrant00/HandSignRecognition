@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dump</folder>
+	<filename>No.da0bc518-c42e-11ed-877b-aae9fe875be2.jpg</filename>
+	<path>C:\Users\vikrant\Desktop\project\imgData\dump\No.da0bc518-c42e-11ed-877b-aae9fe875be2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>809</xmin>
+			<ymin>340</ymin>
+			<xmax>1033</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

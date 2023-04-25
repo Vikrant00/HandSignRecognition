@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dump</folder>
+	<filename>Yes.c8515978-c42e-11ed-877b-aae9fe875be2.jpg</filename>
+	<path>C:\Users\vikrant\Desktop\project\imgData\dump\Yes.c8515978-c42e-11ed-877b-aae9fe875be2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>288</ymin>
+			<xmax>451</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>
