@@ -1,6 +1,6 @@
 
 # Hand Sign Recognition
-![Alt text](HandSignRecognition/../Tensorflow/workspace/images/hu.jpg | width=100)
+![Alt text](HandSignRecognition/../Tensorflow/workspace/images/hu.jpg | width=40)
 
 ![GitHub language count](https://img.shields.io/github/languages/count/Vikrant00/HandSignRecognition)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Vikrant00/HandSignRecognition)
