@@ -1,6 +1,6 @@
 
 # Hand Sign Recognition
-![Alt text](HandSignRecognition/../Tensorflow/workspace/images/hu.png)
+![Alt text](HandSignRecognition/../Tensorflow/workspace/images/hu.jpg)
 
 ![GitHub language count](https://img.shields.io/github/languages/count/Vikrant00/Campgrounds)
 ![top language](https://img.shields.io/github/languages/top/Vikrant00/Campgrounds)
